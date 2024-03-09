@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Java-17-orange)
+
 # Generics-in-Java
 
 ## Exercice 1:
